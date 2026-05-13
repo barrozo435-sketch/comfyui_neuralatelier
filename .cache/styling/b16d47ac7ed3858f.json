@@ -1,0 +1,21 @@
+{
+  "cache_key": "b16d47ac7ed3858f",
+  "prompt": "Transform the main material of the trousers from denim to a high-quality worsted wool. The new fabric must have a mid-weight drape, a smooth and soft handfeel, and excellent crease resistance. Retain the exact light blue faded color, slim-fit silhouette, and all existing construction details such as the five-pocket styling, belt loops, and metallic button closure. Ensure the fabric texture is the only change, keeping the lighting, shadows, and white background completely invariant.",
+  "log": "Run ID: 133d7123-a632-479e-a275-5a090be238ed\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\133d7123-a632-479e-a275-5a090be238ed",
+  "output_json": {
+    "change_type": "main_material",
+    "detail_option": "wool",
+    "garment_type": "trousers",
+    "description": "Set main material to wool: describe handfeel, weight, and resistance",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "b16d47ac7ed3858f",
+    "cache_status": "MISS",
+    "flash_latency_s": 8.34,
+    "nanobana_latency_s": 14.83,
+    "total_latency_s": 23.17,
+    "timestamp": "2026-01-26T11:16:06.771799"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:16:06.772327"
+}

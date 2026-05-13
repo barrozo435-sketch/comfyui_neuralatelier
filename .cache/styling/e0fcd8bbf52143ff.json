@@ -1,0 +1,21 @@
+{
+  "cache_key": "e0fcd8bbf52143ff",
+  "prompt": "Modify the skirt length of the burgundy dress to a mini length, shortening the garment so the straight hemline terminates at mid-thigh. All other elements must remain identical: preserve the sheath silhouette, the linen-like fabric texture, and the specific distribution of the gold and red floral embellishments. The thin shoulder straps, neckline, and color must be kept exactly as in the original image, with only the vertical length of the skirt being reduced to a mini profile.",
+  "log": "Run ID: 35e86a0a-5013-4e8f-9e58-cabf33db1f99\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\35e86a0a-5013-4e8f-9e58-cabf33db1f99",
+  "output_json": {
+    "change_type": "skirt_length",
+    "detail_option": "mini",
+    "garment_type": "dress",
+    "description": "Set the skirt length to mini: describe hem position relative to the leg",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "e0fcd8bbf52143ff",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.16,
+    "nanobana_latency_s": 14.15,
+    "total_latency_s": 20.31,
+    "timestamp": "2026-01-26T11:44:02.195143"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:44:02.195585"
+}

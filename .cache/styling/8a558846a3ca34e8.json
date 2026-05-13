@@ -1,0 +1,21 @@
+{
+  "cache_key": "8a558846a3ca34e8",
+  "prompt": "Modify ONLY the neckline of this beige cable-knit sweater, replacing the current crew neck with a half-zip neck. The new construction must feature a stand-up funnel collar in a fine-ribbed knit that complements the existing texture. Incorporate a vertical metal zipper at the center front, extending from the top edge of the collar down to the mid-chest. The collar should have a clean, finished top edge and a height that allows it to stand upright. Maintain the exact beige color, the specific cable-knit weave pattern, the embroidered logo on the chest, the garment's overall silhouette, and the white background. All other details, including lighting and shadows, must remain identical to the original image.",
+  "log": "Run ID: 8224ba82-21c8-49c7-b10e-9c4d9821e382\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\8224ba82-21c8-49c7-b10e-9c4d9821e382",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "half_zip_neck",
+    "garment_type": "knitwear",
+    "description": "Change the neckline to half_zip_neck: describe shape, height, construction, and edge finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "8a558846a3ca34e8",
+    "cache_status": "MISS",
+    "flash_latency_s": 10.88,
+    "nanobana_latency_s": 21.97,
+    "total_latency_s": 32.85,
+    "timestamp": "2026-01-26T10:52:55.270994"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:52:55.271513"
+}

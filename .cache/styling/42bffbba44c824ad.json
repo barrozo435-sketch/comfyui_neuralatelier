@@ -1,0 +1,21 @@
+{
+  "cache_key": "42bffbba44c824ad",
+  "prompt": "Modify only the neckline of the beige cable-knit sweater, changing the existing crewneck to a clean, sharp V-neck. The V-neck should have a moderate depth and be finished with a 1x1 ribbed trim that matches the original texture and width of the ribbed cuffs and hem. Ensure the cable-knit pattern seamlessly integrates into the new V-neck construction. All other elements must remain identical: keep the exact beige color, the blue embroidered pony logo on the chest, the blue internal neck label, the overall garment silhouette, and the fabric's cable-knit texture completely unchanged.",
+  "log": "Run ID: 8be02c05-0e2e-4e7c-8744-057d1d6df70d\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\8be02c05-0e2e-4e7c-8744-057d1d6df70d",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "v_neck",
+    "garment_type": "knitwear",
+    "description": "Change the neckline to v_neck: describe shape, height, construction, and edge finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "42bffbba44c824ad",
+    "cache_status": "MISS",
+    "flash_latency_s": 9.04,
+    "nanobana_latency_s": 19.8,
+    "total_latency_s": 28.83,
+    "timestamp": "2026-01-26T10:56:46.370185"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:56:46.370628"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "af133a8ecdeee4a8",
+  "prompt": "Modify the neckline and chest of the black piqué polo shirt. Replace the existing ribbed collar and buttoned placket with a clean, finished V-neckline. Simultaneously, add a single patch pocket to the left chest featuring a horizontal piped top edge. The pocket must be constructed from the identical black piqué material as the body. Ensure the red embroidered logo is preserved and positioned on the new chest pocket. All other elements, including the short sleeves with ribbed cuffs, fabric texture, solid black color, and overall garment silhouette, must remain strictly unchanged.",
+  "log": "Run ID: f41030e3-62bf-4c69-8d33-a7bc44d76085\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\f41030e3-62bf-4c69-8d33-a7bc44d76085",
+  "output_json": {
+    "change_type": "details",
+    "detail_option": "v_neck",
+    "garment_type": "polo",
+    "description": "Add or modify pocket on pocket_with_piping: describe position, dimensions, and edge",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "af133a8ecdeee4a8",
+    "cache_status": "MISS",
+    "flash_latency_s": 14.08,
+    "nanobana_latency_s": 15.11,
+    "total_latency_s": 29.19,
+    "timestamp": "2026-01-26T11:04:46.264021"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:04:46.264780"
+}

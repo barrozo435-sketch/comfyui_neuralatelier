@@ -1,0 +1,21 @@
+{
+  "cache_key": "6b8c6d43028901b0",
+  "prompt": "Modify only the front pockets of these light-wash denim trousers, replacing the existing inset curved pockets with two symmetrical front patch pockets. Each patch pocket should be rectangular in shape with a straight, horizontal top-entry opening and visible tonal topstitching along the sides and bottom edges, characteristic of workwear styling. Ensure the patch pockets are seamlessly integrated using the identical denim fabric, faded wash, and texture of the original garment. All other elements, including the slim-straight silhouette, waistband, belt loops, button closure, fly, and the white background, must remain exactly the same.",
+  "log": "Run ID: 86d684af-3327-4bbe-808f-57063aebcb79\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\86d684af-3327-4bbe-808f-57063aebcb79",
+  "output_json": {
+    "change_type": "front_pockets",
+    "detail_option": "patch_pockets",
+    "garment_type": "trousers",
+    "description": "Set front pockets to patch_pockets: describe shape and accessibility",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "6b8c6d43028901b0",
+    "cache_status": "MISS",
+    "flash_latency_s": 4.31,
+    "nanobana_latency_s": 14.9,
+    "total_latency_s": 19.2,
+    "timestamp": "2026-01-26T11:15:42.281441"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:15:42.281899"
+}

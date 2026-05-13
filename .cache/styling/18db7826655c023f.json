@@ -1,0 +1,21 @@
+{
+  "cache_key": "18db7826655c023f",
+  "prompt": "Modify only the collar of the black piqué polo shirt, replacing the existing structured ribbed collar with a soft_polo_collar. The new collar must be constructed from the same self-fabric black piqué as the shirt body, featuring an unstructured, flexible design without internal stiffening. It should exhibit a relaxed, natural roll and a soft, low-profile folding behavior that follows the curve of the neckline. Ensure the black color, piqué weave texture, red embroidered logo, white buttons, and the overall silhouette of the garment remain exactly the same. The lighting, shadows, and plain background must be preserved without any changes.",
+  "log": "Run ID: bb88c523-33fe-4942-b13a-f192c2dbe4e5\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\bb88c523-33fe-4942-b13a-f192c2dbe4e5",
+  "output_json": {
+    "change_type": "collar",
+    "detail_option": "soft_polo_collar",
+    "garment_type": "polo",
+    "description": "Change the collar to soft_polo_collar: describe shape, structure, height, and folding behavior",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "18db7826655c023f",
+    "cache_status": "MISS",
+    "flash_latency_s": 7.05,
+    "nanobana_latency_s": 15.91,
+    "total_latency_s": 22.95,
+    "timestamp": "2026-01-26T10:32:42.109939"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:32:42.110466"
+}

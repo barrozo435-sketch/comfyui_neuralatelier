@@ -1,0 +1,21 @@
+{
+  "cache_key": "144679e30a030e3a",
+  "prompt": "Modify only the collar points of the black polo to have short points. The collar tips should be shortened in length, featuring a sharp angle and a very subtle, minimal roundness at the extreme tips while maintaining perfect bilateral symmetry. The black cotton pique fabric texture, the red embroidered horse logo, the white buttons, the inner blue neck label, and the overall garment silhouette must remain completely unchanged and identical to the original image.",
+  "log": "Run ID: f9ee2b5f-8273-42f3-bea5-a73dc7c01515\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\f9ee2b5f-8273-42f3-bea5-a73dc7c01515",
+  "output_json": {
+    "change_type": "collar_points",
+    "detail_option": "short_points",
+    "garment_type": "polo",
+    "description": "Set collar point shape to short_points: describe angle, roundness, and symmetry",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "144679e30a030e3a",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.34,
+    "nanobana_latency_s": 14.84,
+    "total_latency_s": 21.18,
+    "timestamp": "2026-01-26T10:35:34.507744"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:35:34.508217"
+}

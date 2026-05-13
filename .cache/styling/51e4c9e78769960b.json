@@ -1,0 +1,21 @@
+{
+  "cache_key": "51e4c9e78769960b",
+  "prompt": "Modify only the sleeve cuffs of the black polo shirt to a wide_band_cuff finish. Replace the existing narrow ribbing with a wider, elasticated rib-knit band that features a distinct vertical texture and provides a snug adherence. The new wide band cuff must be the exact same black color and tonal match as the garment. All other features—including the pique fabric texture of the body, the red embroidered logo, the collar shape, the button placket with white buttons, and the overall silhouette—must remain absolutely identical to the original image.",
+  "log": "Run ID: 69c4375c-d49b-488a-9ce0-22e55088f05c\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\69c4375c-d49b-488a-9ce0-22e55088f05c",
+  "output_json": {
+    "change_type": "cuff",
+    "detail_option": "wide_band_cuff",
+    "garment_type": "polo",
+    "description": "Set cuff finish to wide_band_cuff: describe band, elasticity, and adherence",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "51e4c9e78769960b",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.88,
+    "nanobana_latency_s": 16.88,
+    "total_latency_s": 23.76,
+    "timestamp": "2026-01-26T10:37:31.901628"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:37:31.902150"
+}

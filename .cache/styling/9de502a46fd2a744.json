@@ -1,0 +1,21 @@
+{
+  "cache_key": "9de502a46fd2a744",
+  "prompt": "Modify the neckline into a tall, folded turtleneck with a vertical rib-knit construction that matches the gauge of the existing cuffs and hem. The turtleneck should fold over once to create a clean, finished edge. Keep the beige color, the specific cable-knit weave on the body and sleeves, the small blue embroidered pony logo on the chest, and the internal brand label exactly as they are in the original. The overall silhouette, lighting, and white background must remain unchanged.",
+  "log": "Run ID: be6fa6a7-69c6-4cf2-889e-b8ae118bff55\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\be6fa6a7-69c6-4cf2-889e-b8ae118bff55",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "turtleneck",
+    "garment_type": "knitwear",
+    "description": "Change the neckline to turtleneck: describe shape, height, construction, and edge finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "9de502a46fd2a744",
+    "cache_status": "MISS",
+    "flash_latency_s": 14.99,
+    "nanobana_latency_s": 22.55,
+    "total_latency_s": 37.55,
+    "timestamp": "2026-01-26T10:56:16.063332"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:56:16.063813"
+}

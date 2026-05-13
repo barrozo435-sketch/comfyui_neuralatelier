@@ -1,0 +1,21 @@
+{
+  "cache_key": "4c8e3dabad145751",
+  "prompt": "Modify ONLY the collar of the black polo shirt to a long polo collar style. The new collar must feature elongated, sharp points and a taller collar stand for increased structure and height. The fold-over behavior should be crisp and more pronounced, sitting higher on the neckline. All other elements, including the black pique fabric texture, the red embroidered logo, the white buttons on the placket, the overall garment silhouette, and the clean white background, must remain completely unchanged and identical to the original.",
+  "log": "Run ID: fc5e47b2-50de-4b8d-af55-e8d884aa587c\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\fc5e47b2-50de-4b8d-af55-e8d884aa587c",
+  "output_json": {
+    "change_type": "collar",
+    "detail_option": "long_polo_collar",
+    "garment_type": "polo",
+    "description": "Change the collar to long_polo_collar: describe shape, structure, height, and folding behavior",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "4c8e3dabad145751",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.94,
+    "nanobana_latency_s": 16.55,
+    "total_latency_s": 23.5,
+    "timestamp": "2026-01-26T10:34:47.987881"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:34:47.988434"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "b875223dbdca6200",
+  "prompt": "Modify the current placket to a long 4-button placket. The new placket should extend further down the chest, featuring four vertically aligned, evenly spaced white buttons. Ensure a clean-finished construction with sharp, straight edges and precise topstitching. All other elements, including the black cotton pique fabric texture, the red embroidered polo player logo, the collar shape, and the overall garment silhouette, must remain exactly the same.",
+  "log": "Run ID: f8fa50ff-9f79-499f-a17c-68d2ede30fde\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\f8fa50ff-9f79-499f-a17c-68d2ede30fde",
+  "output_json": {
+    "change_type": "placket",
+    "detail_option": "long_placket_4_buttons",
+    "garment_type": "polo",
+    "description": "Change the placket to long_placket_4_buttons: describe length, construction, and edge cleanliness",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "b875223dbdca6200",
+    "cache_status": "MISS",
+    "flash_latency_s": 5.65,
+    "nanobana_latency_s": 16.09,
+    "total_latency_s": 21.74,
+    "timestamp": "2026-01-26T10:35:57.356193"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:35:57.356731"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "62c8609242fc4562",
+  "prompt": "Modify the dress to include symmetrical draped fabric panels integrated into the side seams, starting from the hip level and cascading gracefully to the hemline. These panels should feature soft, fluid vertical folds that add elegant movement to the sides while preserving the original burgundy color and linen-like fabric texture. The garment's core column silhouette, the thin shoulder straps, and all existing gold and red floral embellishments must remain completely unchanged and identical to the original image.",
+  "log": "Run ID: 276f5973-4a5f-4a1a-80dc-1ac6af7f890f\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\276f5973-4a5f-4a1a-80dc-1ac6af7f890f",
+  "output_json": {
+    "change_type": "details",
+    "detail_option": "draped_panels",
+    "garment_type": "dress",
+    "description": "Add or modify details set to draped_panels: describe placement and visual impact",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "62c8609242fc4562",
+    "cache_status": "MISS",
+    "flash_latency_s": 7.21,
+    "nanobana_latency_s": 15.3,
+    "total_latency_s": 22.51,
+    "timestamp": "2026-01-26T11:45:11.726256"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:45:11.726674"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "0fd1a3953ce59ef5",
+  "prompt": "Modify the trousers to a cargo base type by adding symmetrical, functional cargo pockets with rectangular flaps on the outer mid-thigh of each leg. The original light-wash denim fabric, texture, and fading pattern must remain identical. Ensure the overall slim-straight silhouette, waistband construction, and standard five-pocket detailing at the top are preserved exactly. All other aspects, including the garment's proportions, color, and the clean white background, must remain unchanged.",
+  "log": "Run ID: 770f97c3-a95b-4469-a28e-a32cdb8bbcdf\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\770f97c3-a95b-4469-a28e-a32cdb8bbcdf",
+  "output_json": {
+    "change_type": "base_type",
+    "detail_option": "cargo",
+    "garment_type": "trousers",
+    "description": "Set base type to cargo: describe general construction and usage context",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "0fd1a3953ce59ef5",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.89,
+    "nanobana_latency_s": 14.68,
+    "total_latency_s": 21.56,
+    "timestamp": "2026-01-26T11:13:33.762326"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:13:33.762732"
+}

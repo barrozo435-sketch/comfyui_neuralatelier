@@ -1,0 +1,21 @@
+{
+  "cache_key": "495a5fa9cda8617a",
+  "prompt": "Modify the neckline of the black polo shirt by replacing the existing collar and placket with a wide, horizontal boat neck that extends towards the shoulders. Additionally, add a square patch pocket to the left chest (viewer's right) featuring a tonal piped detail along the top edge. The garment's original black pique fabric texture, short-sleeve silhouette, ribbed cuffs, and overall proportions must remain identical. Ensure the lighting, shadows, and neutral background are preserved exactly as in the original image, with no changes to the garment's color or material weave.",
+  "log": "Run ID: 663dfaf4-f7c2-42a5-8149-056c61b7ffc1\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\663dfaf4-f7c2-42a5-8149-056c61b7ffc1",
+  "output_json": {
+    "change_type": "details",
+    "detail_option": "boat_neck",
+    "garment_type": "polo",
+    "description": "Add or modify pocket on pocket_with_piping: describe position, dimensions, and edge",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "495a5fa9cda8617a",
+    "cache_status": "MISS",
+    "flash_latency_s": 31.36,
+    "nanobana_latency_s": 14.62,
+    "total_latency_s": 45.99,
+    "timestamp": "2026-01-26T11:05:43.184243"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:05:43.184688"
+}

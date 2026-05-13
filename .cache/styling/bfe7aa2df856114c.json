@@ -1,0 +1,21 @@
+{
+  "cache_key": "bfe7aa2df856114c",
+  "prompt": "Add a patch pocket to the wearer's left chest of the black polo shirt. The pocket must feature a top edge finished with tonal black piping. The pocket should be approximately 4.5 inches wide and 5 inches deep, constructed from the identical black pique fabric as the rest of the garment. The existing red embroidered pony logo must be preserved and remain in its exact position, now centered on the face of the new pocket. The overall silhouette, collar structure, two-button placket, sleeve cuffs, and fabric texture must remain exactly the same. The lighting, shadows, and background from the original image must be strictly maintained.",
+  "log": "Run ID: 843913bd-9203-4f5f-a71a-582829d5c0a0\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\843913bd-9203-4f5f-a71a-582829d5c0a0",
+  "output_json": {
+    "change_type": "pocket",
+    "detail_option": "pocket_with_piping",
+    "garment_type": "polo",
+    "description": "Add or modify pocket on pocket_with_piping: describe position, dimensions, and edge",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "bfe7aa2df856114c",
+    "cache_status": "MISS",
+    "flash_latency_s": 8.83,
+    "nanobana_latency_s": 15.36,
+    "total_latency_s": 24.2,
+    "timestamp": "2026-01-26T10:39:15.589306"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:39:15.589852"
+}

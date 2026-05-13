@@ -1,0 +1,21 @@
+{
+  "cache_key": "db811ab9b0a15a4a",
+  "prompt": "Modify the dress to include a single vertical front slit positioned on the wearer's left side, extending from the bottom hemline up to the mid-thigh. The slit should have a clean, finished edge. Maintain the identical maroon fabric texture, the exact placement and design of all gold and red beaded floral embellishments, the original column silhouette, and the square neckline with thin spaghetti straps. All other aspects of the garment must remain unchanged.",
+  "log": "Run ID: c0a33c39-16f0-4795-abfe-897685ea3f15\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\c0a33c39-16f0-4795-abfe-897685ea3f15",
+  "output_json": {
+    "change_type": "slit",
+    "detail_option": "front_slit",
+    "garment_type": "dress",
+    "description": "Add or remove a slit: set to front_slit and describe length and position",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "db811ab9b0a15a4a",
+    "cache_status": "MISS",
+    "flash_latency_s": 5.74,
+    "nanobana_latency_s": 16.01,
+    "total_latency_s": 21.75,
+    "timestamp": "2026-01-26T11:44:25.234871"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:44:25.235346"
+}

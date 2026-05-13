@@ -1,0 +1,21 @@
+{
+  "cache_key": "eeae435aae360f9d",
+  "prompt": "Modify the neckline into a henley style by adding a vertical partial front placket with a three-button closure. The neckline must remain a round shape with a ribbed edge finish that extends down the sides of the placket. The construction should integrate seamlessly into the existing knit. Crucially, keep the cable-knit pattern, the beige color, the blue embroidered logo, the interior brand label, and the overall garment silhouette exactly as they appear in the original image. No other modifications should be made.",
+  "log": "Run ID: 073c9b74-b8a2-4851-91e5-421f64b45684\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\073c9b74-b8a2-4851-91e5-421f64b45684",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "henley",
+    "garment_type": "knitwear",
+    "description": "Change the neckline to henley: describe shape, height, construction, and edge finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "eeae435aae360f9d",
+    "cache_status": "MISS",
+    "flash_latency_s": 11.03,
+    "nanobana_latency_s": 21.17,
+    "total_latency_s": 32.2,
+    "timestamp": "2026-01-26T10:54:00.497256"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:54:00.497671"
+}

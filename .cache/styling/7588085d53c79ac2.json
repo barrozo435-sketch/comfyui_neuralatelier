@@ -1,0 +1,21 @@
+{
+  "cache_key": "7588085d53c79ac2",
+  "prompt": "Modify only the neckline of the beige cable-knit sweater to a mock neck. The new neckline must be a stand-up collar with a height of approximately 1.5 inches, featuring a vertical 1x1 rib-knit construction that matches the texture and gauge of the existing sleeve cuffs and hem. The top edge of the mock neck should have a clean, tubular finish. All other elements, including the camel-beige color, the intricate cable-knit pattern across the body and sleeves, the blue embroidered logo on the left chest, the overall silhouette, and the white background, must remain exactly the same.",
+  "log": "Run ID: 59e81c98-8993-4c9a-9e76-7e8f85212c81\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\59e81c98-8993-4c9a-9e76-7e8f85212c81",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "mock_neck",
+    "garment_type": "knitwear",
+    "description": "Change the neckline to mock_neck: describe shape, height, construction, and edge finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "7588085d53c79ac2",
+    "cache_status": "MISS",
+    "flash_latency_s": 8.65,
+    "nanobana_latency_s": 20.4,
+    "total_latency_s": 29.05,
+    "timestamp": "2026-01-26T10:55:37.025574"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:55:37.026045"
+}

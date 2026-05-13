@@ -1,0 +1,21 @@
+{
+  "cache_key": "31b5da176f211294",
+  "prompt": "Modify the fabric structure of the maroon dress to a lightweight, airy chiffon. The new fabric should exhibit a soft, fluid drape and a delicate, fine-grained texture characteristic of high-quality chiffon. Maintain the exact deep maroon color and ensure all gold and red beaded floral embellishments remain precisely in their original positions and patterns. The column silhouette, thin straps, and overall garment proportions must remain strictly identical to the original image, preserving all existing lighting, shadows, and background details.",
+  "log": "Run ID: a0b0c990-f629-49ae-874e-31a7d98dfd0d\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\a0b0c990-f629-49ae-874e-31a7d98dfd0d",
+  "output_json": {
+    "change_type": "fabric_structure",
+    "detail_option": "chiffon",
+    "garment_type": "dress",
+    "description": "Set the fabric structure to chiffon: describe drape, weight and texture",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "31b5da176f211294",
+    "cache_status": "MISS",
+    "flash_latency_s": 7.13,
+    "nanobana_latency_s": 14.59,
+    "total_latency_s": 21.72,
+    "timestamp": "2026-01-26T11:44:48.124366"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:44:48.124826"
+}

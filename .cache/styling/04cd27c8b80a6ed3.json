@@ -1,0 +1,21 @@
+{
+  "cache_key": "04cd27c8b80a6ed3",
+  "prompt": "Modify only the side vents at the lower hem of this black polo shirt. Replace the existing slits with reinforced side vents featuring clean, precisely finished edges and a length of approximately 1.5 inches. Add a subtle, matching black bar tack reinforcement at the top of each vent for enhanced durability. The black pique cotton material, the red embroidered logo, the collar, the button placket, and the overall garment silhouette must remain identical to the original image.",
+  "log": "Run ID: 0b93c3ff-7ef0-4e57-b580-18e6f4e81cca\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\0b93c3ff-7ef0-4e57-b580-18e6f4e81cca",
+  "output_json": {
+    "change_type": "side_vents",
+    "detail_option": "reinforced_vents",
+    "garment_type": "polo",
+    "description": "Set side vents to reinforced_vents: describe length, reinforcements, and edge cleanliness",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "04cd27c8b80a6ed3",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.65,
+    "nanobana_latency_s": 15.74,
+    "total_latency_s": 22.39,
+    "timestamp": "2026-01-26T10:38:22.889987"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:38:22.890476"
+}

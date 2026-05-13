@@ -1,0 +1,21 @@
+{
+  "cache_key": "b72c1851c1e723bc",
+  "prompt": "Modify ONLY the sleeves of this black piqué polo shirt, extending them to a 'long short sleeve' length that terminates approximately two inches above the elbow. The sleeves must retain their existing ribbed cuffs, ensuring they fit snugly at the new, lower position on the arm. Maintain all other garment features exactly as they appear in the original image, including the black piqué fabric texture, the red embroidered pony logo, the collar structure, the two-button placket, and the overall silhouette.",
+  "log": "Run ID: ccc09ac3-3d9a-445d-b4ba-2f1b398d8b2c\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\ccc09ac3-3d9a-445d-b4ba-2f1b398d8b2c",
+  "output_json": {
+    "change_type": "sleeves",
+    "detail_option": "long_short_sleeve",
+    "garment_type": "polo",
+    "description": "Change sleeves to long_short_sleeve: describe length and relationship with the cuff",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "b72c1851c1e723bc",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.91,
+    "nanobana_latency_s": 16.89,
+    "total_latency_s": 23.8,
+    "timestamp": "2026-01-26T10:37:07.007527"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:37:07.008088"
+}

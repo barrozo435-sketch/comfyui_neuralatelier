@@ -1,0 +1,21 @@
+{
+  "cache_key": "3d3e01ebd659101a",
+  "prompt": "Modify the bottom hem of the black polo shirt to feature an asymmetric_hem. The hemline should be redesigned with a sharp diagonal line, sloping from a shorter length on the left side to a longer length on the right side. The finish must maintain a clean, double-needle topstitch consistent with the original piqué fabric texture. Ensure the movement of the fabric reflects the uneven length naturally. Keep all other elements—including the black color, piqué weave, red embroidered logo, ribbed collar, two-button placket, and sleeve cuffs—exactly as they appear in the original image.",
+  "log": "Run ID: 4f89ecc5-9a61-455a-97cf-672125f1d3a1\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\4f89ecc5-9a61-455a-97cf-672125f1d3a1",
+  "output_json": {
+    "change_type": "hem",
+    "detail_option": "asymmetric_hem",
+    "garment_type": "polo",
+    "description": "Change hem to asymmetric_hem: describe line, finish, and movement behavior",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "3d3e01ebd659101a",
+    "cache_status": "MISS",
+    "flash_latency_s": 7.51,
+    "nanobana_latency_s": 18.8,
+    "total_latency_s": 26.31,
+    "timestamp": "2026-01-26T10:37:59.395893"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:37:59.396412"
+}

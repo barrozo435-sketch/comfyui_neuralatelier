@@ -1,0 +1,21 @@
+{
+  "cache_key": "fd8a626e8d582561",
+  "prompt": "Modify the neckline of the beige cable-knit sweater to a classic crew neck. The neckline must feature a perfectly circular, rounded shape that sits snugly at the base of the neck. It should be constructed with a 1x1 ribbed knit band, approximately 2cm in height, seamlessly integrated into the cable-knit body. The edge finish must be a clean, uniform ribbed trim that matches the gauge of the existing cuffs. All other elements, including the tan color, the intricate cable-knit texture, the blue embroidered logo on the chest, the overall garment silhouette, and the plain white background, must remain exactly as they are in the original image.",
+  "log": "Run ID: 3751ee50-48fb-4289-b07b-84716f7e5925\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\3751ee50-48fb-4289-b07b-84716f7e5925",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "crew_neck",
+    "garment_type": "knitwear",
+    "description": "Change the neckline to crew_neck: describe shape, height, construction, and edge finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "fd8a626e8d582561",
+    "cache_status": "MISS",
+    "flash_latency_s": 11.67,
+    "nanobana_latency_s": 17.21,
+    "total_latency_s": 28.88,
+    "timestamp": "2026-01-26T10:57:16.726010"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:57:16.726569"
+}

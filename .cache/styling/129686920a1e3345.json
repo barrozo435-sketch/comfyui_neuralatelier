@@ -1,0 +1,21 @@
+{
+  "cache_key": "129686920a1e3345",
+  "prompt": "Modify the leg openings of the denim trousers to feature a clean 1.5-inch turn-up cuff. The cuff should reveal the lighter-toned reverse side of the denim fabric with a crisp, folded top edge and precise side-seam alignment. The overall slim silhouette, light blue wash, whiskering patterns, and denim texture must remain exactly as they are in the original image. Only the hem finish is changed to a turn-up style, while all other garment details and the background remain invariant.",
+  "log": "Run ID: d8e3a908-2aac-4892-9191-175b996dfdda\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\d8e3a908-2aac-4892-9191-175b996dfdda",
+  "output_json": {
+    "change_type": "leg_opening",
+    "detail_option": "turn_up",
+    "garment_type": "trousers",
+    "description": "Set leg opening to turn_up: describe opening and finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "129686920a1e3345",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.64,
+    "nanobana_latency_s": 12.89,
+    "total_latency_s": 19.54,
+    "timestamp": "2026-01-26T11:15:07.249104"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:15:07.249671"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "cea27f0fb11c6389",
+  "prompt": "Modify only the buttons on the placket of this black piqué polo shirt. Replace the current buttons with rubberized buttons, approximately 11mm in diameter, crafted from a soft-touch rubberized material. The buttons must have a flat matte finish in a matching black color, appearing non-reflective with a smooth, grippy texture. Maintain absolute invariance for the rest of the garment: the black piqué fabric texture, the red embroidered logo, the interior 'Polo Ralph Lauren' label, the overall silhouette, and the original lighting and background must remain identical.",
+  "log": "Run ID: c4c97634-56cb-4dc9-b241-838bf9e113f7\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\c4c97634-56cb-4dc9-b241-838bf9e113f7",
+  "output_json": {
+    "change_type": "buttons",
+    "detail_option": "rubberized_buttons",
+    "garment_type": "polo",
+    "description": "Change buttons to rubberized_buttons: describe diameter, material, and finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "cea27f0fb11c6389",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.8,
+    "nanobana_latency_s": 14.75,
+    "total_latency_s": 21.54,
+    "timestamp": "2026-01-26T10:36:42.056123"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:36:42.056606"
+}

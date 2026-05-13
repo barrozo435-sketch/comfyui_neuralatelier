@@ -1,0 +1,21 @@
+{
+  "cache_key": "7b24f857b20cf40f",
+  "prompt": "Modify the silhouette of the black polo shirt to a boxy fit. Increase the width of the chest and torso to create a straight, square profile with no tapering. Extend the shoulder seams for a relaxed, slightly dropped appearance. Ensure the hem opening is wide and straight, hanging loosely with minimal body adherence. Maintain the identical black piqué fabric texture, the red embroidered logo on the chest, the two-button placket with white buttons, the ribbed collar and cuffs, and the internal brand labels. All other details, including color, lighting, and background, must remain unchanged.",
+  "log": "Run ID: 9a3caaf7-6f35-46c2-b7cc-de7300adbf0c\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\9a3caaf7-6f35-46c2-b7cc-de7300adbf0c",
+  "output_json": {
+    "change_type": "fitting",
+    "detail_option": "boxy",
+    "garment_type": "polo",
+    "description": "Set fit to boxy: describe chest, shoulder, hem opening, and adherence",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "7b24f857b20cf40f",
+    "cache_status": "MISS",
+    "flash_latency_s": 9.37,
+    "nanobana_latency_s": 16.89,
+    "total_latency_s": 26.25,
+    "timestamp": "2026-01-26T10:38:50.263120"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:38:50.263626"
+}

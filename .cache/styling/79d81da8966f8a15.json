@@ -1,0 +1,21 @@
+{
+  "cache_key": "79d81da8966f8a15",
+  "prompt": "Modify ONLY the placket (facing flap) construction of this black polo shirt to a topstitched flap. The placket must appear stiff and reinforced with a multi-layered thickness, featuring precise, uniform topstitching along its perimeter edges. Maintain the exact black pique fabric texture, the red embroidered pony logo, the collar shape, the buttons, the overall garment silhouette, and the clean background without any other changes.",
+  "log": "Run ID: 9c43b6ed-8f17-4afb-a0eb-c3e7e6f6371e\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\9c43b6ed-8f17-4afb-a0eb-c3e7e6f6371e",
+  "output_json": {
+    "change_type": "facing_flap",
+    "detail_option": "topstitched_flap",
+    "garment_type": "polo",
+    "description": "Set facing/flap construction to topstitched_flap: describe stiffness, thickness, and stitching",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "79d81da8966f8a15",
+    "cache_status": "MISS",
+    "flash_latency_s": 5.81,
+    "nanobana_latency_s": 15.07,
+    "total_latency_s": 20.88,
+    "timestamp": "2026-01-26T10:36:19.399161"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:36:19.399642"
+}

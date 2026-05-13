@@ -1,0 +1,21 @@
+{
+  "cache_key": "62f13fd54b409138",
+  "prompt": "Modify only the collar of the black polo shirt to feature a high collar height. Increase the vertical height of the collar stand to create a more elevated and upright posture. The collar leaf must exhibit a crisp, structured edge hold that maintains its shape firmly. Ensure the collar opening remains aligned with the existing placket. All other attributes, including the black pique material, the red pony logo, the button details, the overall garment fit, and the lighting must remain absolutely unchanged.",
+  "log": "Run ID: 8a5e29af-e9aa-416b-b8ac-1fa851b67a06\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\8a5e29af-e9aa-416b-b8ac-1fa851b67a06",
+  "output_json": {
+    "change_type": "collar_height",
+    "detail_option": "high",
+    "garment_type": "polo",
+    "description": "Adjust collar height to high: describe stand, opening, and edge hold",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "62f13fd54b409138",
+    "cache_status": "MISS",
+    "flash_latency_s": 7.18,
+    "nanobana_latency_s": 15.93,
+    "total_latency_s": 23.1,
+    "timestamp": "2026-01-26T10:35:12.205968"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:35:12.206471"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "58bed6252b0eca29",
+  "prompt": "Modify only the collar of the black pique polo shirt to a short polo collar. The new collar should feature a reduced height at the back and shorter collar points, creating a compact and modern shape. The structure must be crisp and well-defined, with a sharp fold line that sits closer to the neckline. The folding behavior should be tight and controlled, ensuring the collar points remain neat and upright. Maintain the exact black pique fabric texture, the red embroidered logo on the chest, the two-button placket, the sleeve ribbing, and the overall garment silhouette and color. All other details, including lighting and the plain background, must remain identical.",
+  "log": "Run ID: 26c4419e-f6cb-4567-b507-d9f02cfef5fb\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\26c4419e-f6cb-4567-b507-d9f02cfef5fb",
+  "output_json": {
+    "change_type": "collar",
+    "detail_option": "short_polo_collar",
+    "garment_type": "polo",
+    "description": "Change the collar to short_polo_collar: describe shape, structure, height, and folding behavior",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "58bed6252b0eca29",
+    "cache_status": "MISS",
+    "flash_latency_s": 7.33,
+    "nanobana_latency_s": 15.31,
+    "total_latency_s": 22.63,
+    "timestamp": "2026-01-26T10:34:23.332437"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:34:23.332934"
+}

@@ -1,0 +1,21 @@
+{
+  "cache_key": "d0b68c5b1b5a4758",
+  "prompt": "Modify only the neckline of the beige cable-knit sweater, replacing the crew neck with a shawl collar. The shawl collar should have a rounded, continuous shape that tapers down into a slight crossover at the center chest, featuring a medium-height fold-over construction and a vertical ribbed edge finish. All other features—including the exact beige color, the intricate cable-knit weave pattern, the blue embroidered logo on the left chest, the overall silhouette, the ribbed cuffs and hem, and the plain white background—must remain completely unchanged and identical to the original image.",
+  "log": "Run ID: 73ee6635-a93c-4ee2-88fc-e5185b8b71d6\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\73ee6635-a93c-4ee2-88fc-e5185b8b71d6",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "shawl_collar",
+    "garment_type": "knitwear",
+    "description": "Change the neckline to shawl_collar: describe shape, height, construction, and edge finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "d0b68c5b1b5a4758",
+    "cache_status": "MISS",
+    "flash_latency_s": 10.82,
+    "nanobana_latency_s": 19.14,
+    "total_latency_s": 29.96,
+    "timestamp": "2026-01-26T10:53:26.761459"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:53:26.761907"
+}

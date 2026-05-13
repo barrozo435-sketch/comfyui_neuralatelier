@@ -1,0 +1,21 @@
+{
+  "cache_key": "59dcc08665d69c38",
+  "prompt": "Modify the neckline of the beige cable-knit sweater to a boat neck. The new neckline must be wide and horizontal, extending across the collarbone towards the shoulder points. Construction should feature a clean, fine-ribbed edge finish consistent with the original knit. Ensure the cable-knit pattern remains continuous and unchanged up to the new edge. All other elements, including the garment's beige color, overall silhouette, chest logo, and white background, must remain exactly the same.",
+  "log": "Run ID: 958a349f-069f-4889-b149-47f8cbcf0a7c\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\958a349f-069f-4889-b149-47f8cbcf0a7c",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "boat_neck",
+    "garment_type": "knitwear",
+    "description": "Change the neckline to boat_neck: describe shape, height, construction, and edge finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "59dcc08665d69c38",
+    "cache_status": "MISS",
+    "flash_latency_s": 8.57,
+    "nanobana_latency_s": 19.76,
+    "total_latency_s": 28.33,
+    "timestamp": "2026-01-26T10:55:06.468128"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:55:06.468590"
+}

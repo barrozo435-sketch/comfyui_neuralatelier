@@ -1,0 +1,21 @@
+{
+  "cache_key": "c40af1e56fddbad8",
+  "prompt": "Modify the straight neckline of the burgundy dress into a symmetrical, clean-edged V-neckline with a moderate depth that tapers to a sharp point at the mid-chest. The new V-shape should be perfectly centered to maintain visual balance with the dress's column silhouette. All other aspects of the garment—including the deep burgundy fabric texture, the specific arrangement and design of the gold and red floral embellishments, the thin spaghetti straps, and the overall garment proportions—must remain exactly the same as the original image.",
+  "log": "Run ID: 26275d0a-568b-4582-b862-a4ee7b5843f5\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\26275d0a-568b-4582-b862-a4ee7b5843f5",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "v_neck",
+    "garment_type": "dress",
+    "description": "Modify the neckline to v_neck: describe shape, depth, opening and visual balance",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "c40af1e56fddbad8",
+    "cache_status": "MISS",
+    "flash_latency_s": 6.1,
+    "nanobana_latency_s": 14.52,
+    "total_latency_s": 20.62,
+    "timestamp": "2026-01-26T11:43:03.755795"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T11:43:03.756294"
+}

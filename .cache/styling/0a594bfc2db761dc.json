@@ -1,0 +1,21 @@
+{
+  "cache_key": "0a594bfc2db761dc",
+  "prompt": "Modify the collar to a stiff polo collar featuring a rigid, reinforced structure and a crisp, sharp fold line. The new collar must exhibit a higher stance and maintain a structured, upright shape with sharp points. Ensure the garment's black piqué cotton texture, the red embroidered pony logo, the white buttons, and the overall silhouette remain exactly identical and unchanged.",
+  "log": "Run ID: 3958dba6-5647-4057-a878-78d1ef83c0f4\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\3958dba6-5647-4057-a878-78d1ef83c0f4",
+  "output_json": {
+    "change_type": "collar",
+    "detail_option": "stiff_polo_collar",
+    "garment_type": "polo",
+    "description": "Change the collar to stiff_polo_collar: describe shape, structure, height, and folding behavior",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "0a594bfc2db761dc",
+    "cache_status": "MISS",
+    "flash_latency_s": 5.99,
+    "nanobana_latency_s": 16.12,
+    "total_latency_s": 22.11,
+    "timestamp": "2026-01-26T10:33:35.211729"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:33:35.212231"
+}

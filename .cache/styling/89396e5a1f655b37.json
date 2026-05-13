@@ -1,0 +1,21 @@
+{
+  "cache_key": "89396e5a1f655b37",
+  "prompt": "Modify only the neckline of this beige cable-knit sweater to a deep round neck. The new neckline should feature a pronounced U-shaped scoop that sits lower on the chest than the original crew neck. The edge finish must be a matching 1-inch wide ribbed trim, seamlessly integrated with the existing cable-knit texture. All other features, including the overall silhouette, the specific beige color, the cable-knit pattern, the embroidered logo on the left chest, and the ribbed cuffs and hem, must remain exactly the same and unchanged.",
+  "log": "Run ID: 7a60ac3f-0e11-47bf-bc01-43b4d750730e\nProfile: None/None\nGemini Flash: FAILED - None\nNano Banana: FAILED - None\nOutput: E:\\ComfyUI2026\\ComfyUI_windows_portable\\ComfyUI\\output\\neural_atelier\\NA01\\2026-01-26\\7a60ac3f-0e11-47bf-bc01-43b4d750730e",
+  "output_json": {
+    "change_type": "neckline",
+    "detail_option": "deep_round_neck",
+    "garment_type": "knitwear",
+    "description": "Change the neckline to deep_round_neck: describe shape, height, construction, and edge finish",
+    "reference_used": false,
+    "config_version_hash": "fc40b0a1",
+    "cache_key": "89396e5a1f655b37",
+    "cache_status": "MISS",
+    "flash_latency_s": 9.73,
+    "nanobana_latency_s": 24.9,
+    "total_latency_s": 34.64,
+    "timestamp": "2026-01-26T10:54:36.662881"
+  },
+  "image_path": null,
+  "cached_at": "2026-01-26T10:54:36.663370"
+}
